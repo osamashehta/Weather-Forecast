@@ -258,13 +258,13 @@ main {
   background: var(--text-secondary);
 }
 .box {
-  width: 150px;
+  width: 130px;
   height: 210px;
 }
 
 .box .overlap-group {
   position: relative;
-  width: 150px;
+  width: 130px;
   height: 210px;
   background-color: #373636;
   border-radius: 20px;
