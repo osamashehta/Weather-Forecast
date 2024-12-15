@@ -97,7 +97,7 @@ function handleArrowNavigation(event) {
     suggestions.forEach((item) => item.classList.remove("highlight"));
     if (currentIndex >= 0 && currentIndex < suggestions.length) {
       suggestions[currentIndex].classList.add("highlight");
-      suggestions[currentIndex].scrollIntoView({ behavior: "smooth" });
+      suggestions[currentIndex].scrollIntoView({ block: "nearest" });
     }
   }
 
