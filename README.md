@@ -8,11 +8,8 @@ An innovative and user-friendly **Weather Forecast** application built with **HT
 - Displays temperature, humidity, wind speed, and other weather details.
 - Uses the **WeatherAPI** to fetch reliable weather data.
 
-### Location Search
-- Search for any city to view its weather details.
-- Option to use the user's current location for real-time updates.
-
 ### Forecast Information
+- Search for any city to view its weather details.
 - Provides weather predictions for 3 days.
 - Includes a 24-hour forecast for detailed hourly weather updates.
 
@@ -33,7 +30,7 @@ An innovative and user-friendly **Weather Forecast** application built with **HT
 ## How It Works
 
 ### Current Weather Workflow
-1. Users enter the name of a city .
+1. Users enter the name of a city.
 2. The app fetches and displays the weather details:
    - Temperature
    - Humidity
