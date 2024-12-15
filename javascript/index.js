@@ -196,7 +196,7 @@ function displayHours(response) {
 
     container += `
 
-        <div class="hoursData col-6 col-md-3" >
+        <div class="hoursData col-6 col-md-3 d-flex justify-content-center align-items-center" >
           <div class="box mx-1">
             <div class="overlap-group d-flex justify-content-center align-items-center ">
               <div class="text-white  d-flex justify-content-center align-items-center flex-column ">
